@@ -78,6 +78,9 @@ An awesome list of low- and no-code generative AI resources.
 * [Runway](https://runwayml.com/) - AI-assisted video and content creation tool
 * [Stable Diffusion PaperCut Model](https://huggingface.co/Fictiverse/Stable_Diffusion_PaperCut_Model) - a fine-uned stable diffusion model for generating images in the paper cut style
 * [Unscreen](https://www.unscreen.com/) - Remove video backgrounds, no green screen required
+* [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99)
+* [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99)
+* [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI: one photo → 13s 480p 21:9 solo dance (Paid from $7.99). Not affiliated with Riot Games or K/DA
 
 
 ### ✍️ Writing
